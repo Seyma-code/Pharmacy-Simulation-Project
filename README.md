@@ -40,7 +40,8 @@ Kullanıcılar arayüz üzerinden aşağıdaki parametreleri dinamik olarak değ
 3. Zaman Yönetimi: 8, 12 veya 24 saatlik operasyonel simülasyon süreleri.
 
 ---
+Kütüphaneleri Yükleyin: ```bash
+pip install -r requirements.txt
 
-## Kurulum ve Kullanım
-1. Depoyu Klonlayın: ```bash
-   git clone [https://github.com/Seyma-code/Pharmacy-Simulation-Project.git](https://github.com/Seyma-code/Pharmacy-Simulation-Project.git)
+Uygulamayı Başlatın: ```bash
+streamlit run app.py
